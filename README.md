@@ -1,4 +1,4 @@
-# REST API Documentation Templates Test
+# REST API Documentation Templates
 
 ## In Markdown
 
